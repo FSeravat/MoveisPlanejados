@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alunocax\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alunocax\\.nuget\\packages"
+    ]
+  }
+}
