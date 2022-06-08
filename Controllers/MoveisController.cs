@@ -60,6 +60,7 @@ namespace MoveisPlanejados.Controllers
         {
             if (ModelState.IsValid)
             {
+                movel.Status = "Solicitado";
                 _context.Add(movel);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -90,7 +91,7 @@ namespace MoveisPlanejados.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("MovelId,Tipo,Material,Link,FuncionarioId")] Movel movel)
+        public async Task<IActionResult> Edit(int id, [Bind("MovelId,Tipo,Material,Link,Status,FuncionarioId")] Movel movel)
         {
             if (id != movel.MovelId)
             {

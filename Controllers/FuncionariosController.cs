@@ -57,6 +57,7 @@ namespace MoveisPlanejados.Controllers
         {
             if (ModelState.IsValid)
             {
+                funcionario.Disponivel=true;
                 _context.Add(funcionario);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -85,7 +86,7 @@ namespace MoveisPlanejados.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("FuncionarioId,Nome,Matricula,Setor,Vencimento")] Funcionario funcionario)
+        public async Task<IActionResult> Edit(int id, [Bind("FuncionarioId,Nome,Matricula,Setor,Vencimento,Disponivel")] Funcionario funcionario)
         {
             if (id != funcionario.FuncionarioId)
             {

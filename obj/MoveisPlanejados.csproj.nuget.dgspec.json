@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\MoveisPlanejados.csproj": {}
+    "C:\\Users\\alunocax\\MoveisPlanejados\\MoveisPlanejados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\MoveisPlanejados.csproj": {
+    "C:\\Users\\alunocax\\MoveisPlanejados\\MoveisPlanejados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\MoveisPlanejados.csproj",
+        "projectUniqueName": "C:\\Users\\alunocax\\MoveisPlanejados\\MoveisPlanejados.csproj",
         "projectName": "MoveisPlanejados",
-        "projectPath": "C:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\MoveisPlanejados.csproj",
+        "projectPath": "C:\\Users\\alunocax\\MoveisPlanejados\\MoveisPlanejados.csproj",
         "packagesPath": "C:\\Users\\alunocax\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\obj\\",
+        "outputPath": "C:\\Users\\alunocax\\MoveisPlanejados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alunocax\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5xpl/Pcc6i4v/Pp+3lYiTk1rm/1NeTiYCZSCPXfVxlv/PlZ82gZe57jx6gpz9kv1xtVmOFdHRpGVstyD0iZdDA==",
+  "dgSpecHash": "VJUWNPOfsRtIj0+Rh7L5nWJaST3b3rhyJywYyLKh263nmxf5hthVvbflYkQ9O1w4V+lXftvlTNeFjk8VZeIOWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\MoveisPlanejados.csproj",
+  "projectFilePath": "C:\\Users\\alunocax\\MoveisPlanejados\\MoveisPlanejados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alunocax\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\alunocax\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

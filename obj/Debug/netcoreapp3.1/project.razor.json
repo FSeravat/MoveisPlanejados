@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\MoveisPlanejados.csproj",
+  "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\MoveisPlanejados.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,88 +14402,88 @@
   "RootNamespace": "MoveisPlanejados",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Funcionarios\\Create.cshtml",
+      "TargetPath": "Views\\Funcionarios\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Moveis\\Index.cshtml",
-      "TargetPath": "Views\\Moveis\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Moveis\\Edit.cshtml",
-      "TargetPath": "Views\\Moveis\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Moveis\\Delete.cshtml",
-      "TargetPath": "Views\\Moveis\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Funcionarios\\Delete.cshtml",
-      "TargetPath": "Views\\Funcionarios\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Funcionarios\\Edit.cshtml",
-      "TargetPath": "Views\\Funcionarios\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Funcionarios\\Details.cshtml",
-      "TargetPath": "Views\\Funcionarios\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Moveis\\Create.cshtml",
-      "TargetPath": "Views\\Moveis\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Moveis\\Details.cshtml",
-      "TargetPath": "Views\\Moveis\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Funcionarios\\Index.cshtml",
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Funcionarios\\Index.cshtml",
       "TargetPath": "Views\\Funcionarios\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\alunocax\\Desktop\\MoveisPlanejados\\Views\\Funcionarios\\Create.cshtml",
-      "TargetPath": "Views\\Funcionarios\\Create.cshtml",
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Moveis\\Index.cshtml",
+      "TargetPath": "Views\\Moveis\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Funcionarios\\Edit.cshtml",
+      "TargetPath": "Views\\Funcionarios\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Moveis\\Delete.cshtml",
+      "TargetPath": "Views\\Moveis\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Funcionarios\\Details.cshtml",
+      "TargetPath": "Views\\Funcionarios\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Moveis\\Create.cshtml",
+      "TargetPath": "Views\\Moveis\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Moveis\\Details.cshtml",
+      "TargetPath": "Views\\Moveis\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Funcionarios\\Delete.cshtml",
+      "TargetPath": "Views\\Funcionarios\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Moveis\\Edit.cshtml",
+      "TargetPath": "Views\\Moveis\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
