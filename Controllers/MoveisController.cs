@@ -155,8 +155,8 @@ namespace MoveisPlanejados.Controllers
         public async Task<IActionResult> AvailabelIndex()
         {
             var moveisPlanejadosContext = _context.Movel.Include(m => m.funcionario);
-            moveisPlanejadosContext.Where(m=>m.FuncionarioId==null);
-            return View(await moveisPlanejadosContext.ToListAsync());
+            var moveisPlanejadosContext1 = moveisPlanejadosContext.Where(m=>m.FuncionarioId==null);
+            return View(await moveisPlanejadosContext1.ToListAsync());
         }
 
 
