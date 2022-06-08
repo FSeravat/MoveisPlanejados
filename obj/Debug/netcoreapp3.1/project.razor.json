@@ -14482,6 +14482,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Moveis\\AvailabelIndex.cshtml",
+      "TargetPath": "Views\\Moveis\\AvailabelIndex.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\alunocax\\MoveisPlanejados\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"

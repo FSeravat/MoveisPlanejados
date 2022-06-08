@@ -309,3 +309,4 @@ C:\Users\alunocax\MoveisPlanejados\obj\Debug\netcoreapp3.1\staticwebassets\Movei
 C:\Users\alunocax\MoveisPlanejados\obj\Debug\netcoreapp3.1\MoveisPlanejados.dll
 C:\Users\alunocax\MoveisPlanejados\obj\Debug\netcoreapp3.1\MoveisPlanejados.pdb
 C:\Users\alunocax\MoveisPlanejados\obj\Debug\netcoreapp3.1\MoveisPlanejados.genruntimeconfig.cache
+C:\Users\alunocax\MoveisPlanejados\obj\Debug\netcoreapp3.1\Razor\Views\Moveis\AvailabelIndex.cshtml.g.cs

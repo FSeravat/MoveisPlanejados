@@ -152,6 +152,14 @@ namespace MoveisPlanejados.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        public async Task<IActionResult> AvailabelIndex()
+        {
+            var moveisPlanejadosContext = _context.Movel.Include(m => m.funcionario);
+            moveisPlanejadosContext.Where(m=>m.FuncionarioId==null);
+            return View(await moveisPlanejadosContext.ToListAsync());
+        }
+
+
         private bool MovelExists(int id)
         {
             return _context.Movel.Any(e => e.MovelId == id);
